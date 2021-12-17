@@ -1,5 +1,4 @@
 <resources>
-
     <!-- String related to sending -->
     <string name="action_send">Gửi</string>
     <string name="action_send_tkn">Gửi %1$s</string>
@@ -14,7 +13,6 @@
     <string name="ok">Đồng ý</string>
     <string name="barcode_error_format">Định dạng mã vạch không hợp lệ: %s</string>
     <string name="title_delete_account">Bạn có chắc chắn muốn xóa ví không?</string>
-
     <string name="error_import">Lỗi khi nhập chuỗi khóa</string>
     <string name="error_deleting_account">Lỗi khi xóa ví</string>
     <string name="do_manage_make_backup">Quản lý để tạo một bản sao lưu?</string>
@@ -533,7 +531,7 @@
     <string name="provide_authentication">Cung cấp xác thực để tạo khóa</string>
     <string name="import_error">Nhập lỗi, hãy thử nhập lại lần nữa.</string>
     <string name="watch_exists">Ví %1$s đã đầy - không cần phải xem</string>
-    <string name="welcome_to_alphawallet">Chào mứng đến với AlphaWallet</string>
+    <string name="welcome_to_alphawallet">Chào mứng đến với AAAWallet</string>
     <string name="lock_seed_phrase">Khóa cụm từ bí mật</string>
     <string name="no_key">Không tìm thấy chuỗi khóa</string>
     <string name="pending_transaction">Giao dịch đang chờ xử lý ...</string>

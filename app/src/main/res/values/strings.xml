@@ -105,7 +105,7 @@
     <string name="error_fail_load_tokens">Failed to load tokens list</string>
     <string name="error_create_wallet">Failed to create a wallet</string>
 
-    <string name="app_name">AlphaWallet</string>
+    <string name="app_name">AAAWallet</string>
     <string name="all">All</string>
     <string name="currency">Currencies</string>
     <string name="advanced">Advanced Options</string>
@@ -534,7 +534,6 @@
     <string name="provide_authentication">Provide authentication to create key</string>
     <string name="import_error">Import Error, Try re-import again.</string>
     <string name="watch_exists">Wallet %1$s already imported with key</string>
-    <string name="welcome_to_alphawallet">Welcome to AlphaWallet</string>
     <string name="lock_seed_phrase">Lock Seed Phrase</string>
     <string name="no_key">No Key found</string>
     <string name="pending_transaction">Pending Transaction …</string>
@@ -864,4 +863,5 @@
     <string name="summary_change_24h">%1$s (%2$s) Today</string>
     <string name="performance">Performance</string>
     <string name="token_name_hint">Token Name</string>
+    <string name="welcome_to_alphawallet">Welcome to AAAWallet</string>
 </resources>

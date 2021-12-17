@@ -530,7 +530,7 @@
     <string name="provide_authentication">Fournir authentification pour créer une clé</string>
     <string name="import_error">Importer Erreur, essayer de ré-importer encore.</string>
     <string name="watch_exists">Portefeuille %1$s portefeuille déja plein - pas besoinn de regarder</string>
-    <string name="welcome_to_alphawallet">Bienvenue sur AlphaWallet</string>
+    <string name="welcome_to_alphawallet">Bienvenue sur AAAWallet</string>
     <string name="lock_seed_phrase">Vérouiller la Phrase Seed</string>
     <string name="no_key">Pas de Clé Trouvé</string>
     <string name="pending_transaction">Transaction en attente ...</string>
